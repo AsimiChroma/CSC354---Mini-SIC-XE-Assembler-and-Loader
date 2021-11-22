@@ -1,4 +1,4 @@
-# CSC354-Mini-SIC-XE-Assembler-and-Loader
+# CSC354-Mini SIC/XE Assemble, linker, and loader
 A simple SIC/XE assembler, linker, and loader implemented in C++.
 
 
